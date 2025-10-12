@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "251381610747",
+    "firebase_url": "https://ghamidiapp-s-default-rtdb.firebaseio.com",
+    "project_id": "ghamidiapp-s",
+    "storage_bucket": "ghamidiapp-s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251381610747:android:7118d06aa555308893585e",
+        "android_client_info": {
+          "package_name": "com.SAGM.quran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251381610747-79sbo1gg5h384vmdbfoh0aba4dnavs03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SAGM.quran",
+            "certificate_hash": "acfb1b12a399f52c61ea9c455558610de9672af2"
+          }
+        },
+        {
+          "client_id": "251381610747-qp8tuttr2kkb9u394id4bc6bj1onl1hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLpRsD5FQxAaGtdoCfynogNpKoAB1WUL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251381610747-qp8tuttr2kkb9u394id4bc6bj1onl1hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251381610747:android:569fd9bd0a01c0a893585e",
+        "android_client_info": {
+          "package_name": "com.ghamidi.part.one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251381610747-8i4qp8ektui1a4maied62sarfuh9faig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ghamidi.part.one",
+            "certificate_hash": "acfb1b12a399f52c61ea9c455558610de9672af2"
+          }
+        },
+        {
+          "client_id": "251381610747-qp8tuttr2kkb9u394id4bc6bj1onl1hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLpRsD5FQxAaGtdoCfynogNpKoAB1WUL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251381610747-qp8tuttr2kkb9u394id4bc6bj1onl1hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251381610747:android:bd4ff41557b1077e93585e",
+        "android_client_info": {
+          "package_name": "com.ghamidi.part.three"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251381610747-50ikhcuo704s07p52dgc804f4kvj0sfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ghamidi.part.three",
+            "certificate_hash": "acfb1b12a399f52c61ea9c455558610de9672af2"
+          }
+        },
+        {
+          "client_id": "251381610747-qp8tuttr2kkb9u394id4bc6bj1onl1hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLpRsD5FQxAaGtdoCfynogNpKoAB1WUL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251381610747-qp8tuttr2kkb9u394id4bc6bj1onl1hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251381610747:android:087b33aeeae9a0d393585e",
+        "android_client_info": {
+          "package_name": "com.ghamidi.part.two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251381610747-v0eg16ersr08dkbg689p2tql9v352re4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ghamidi.part.two",
+            "certificate_hash": "acfb1b12a399f52c61ea9c455558610de9672af2"
+          }
+        },
+        {
+          "client_id": "251381610747-qp8tuttr2kkb9u394id4bc6bj1onl1hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLpRsD5FQxAaGtdoCfynogNpKoAB1WUL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251381610747-qp8tuttr2kkb9u394id4bc6bj1onl1hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
