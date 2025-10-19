@@ -7,6 +7,7 @@ import 'package:quran_app/read_quran_page/quran_container.dart';
 import 'package:quran_app/read_quran_page/quran_header.dart';
 import 'package:quran_app/read_quran_page/set_current_translation.dart';
 import 'package:quran_app/settings/set_font_size/set_font_size.dart';
+import 'package:quran_app/util/app_info.dart';
 import 'package:quran_app/util/appbar_system_style.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 
@@ -88,6 +89,13 @@ class _ReadQuranState extends State<ReadQuran> {
     return AnnotatedRegion<SystemUiOverlayStyle>(
       value: AppbarSystemStyle().appbarSystemStyle(context),
       child: Scaffold(
+        appBar: !isAndroid
+            ? AppBar(
+                title: Text(
+                  quranCsv.currentTransSurahName,
+                ),
+              )
+            : null,
         backgroundColor:
             themeColorProvider.background ?? themeColorProvider.primary,
         body: PopScope(

@@ -25,13 +25,13 @@ const String samsungLinkThree =
     "https://galaxystore.samsung.com/detail/com.ghamidi.part.three"; //TODO
 
 const String appleStoreLink =
-    "https://play.google.com/store/apps/details?id=com.ghamidi.part.one"; //TODO
+    "https://apps.apple.com/us/app/saad-al-ghamidi-children-2/id6754208997"; //TODO
 
 const String appleStoreLinkOne =
-    "https://play.google.com/store/apps/details?id=com.ghamidi.part.one"; //TODO
+    "https://apps.apple.com/us/app/saad-al-ghamidi-children-1/id6754209119"; //TODO
 
 const String appleStoreLinkThree =
-    "https://play.google.com/store/apps/details?id=com.ghamidi.part.three"; //TODO
+    "https://apps.apple.com/us/app/saad-al-ghamidi-children-3/id6754209183"; //TODO
 
 //TODO
 
