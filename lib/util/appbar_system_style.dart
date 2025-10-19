@@ -17,7 +17,7 @@ class AppbarSystemStyle {
       statusBarColor: themeColorProvider.primary ??
           Theme.of(context).scaffoldBackgroundColor,
       statusBarIconBrightness: Brightness.light,
-      statusBarBrightness: Brightness.light,
+      statusBarBrightness: Brightness.dark,
     );
   }
 }
